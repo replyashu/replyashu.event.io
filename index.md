@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+{"event_data" : {
+	“title” : 'The Backyard Musicians',
+	“cover_pic” : 'https://blog.snappa.com/wp-content/uploads/2019/05/free-custom-Instagram-Highlight-Covers-1.jpg',
+	“profile_pic” : 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwLZJcIQ-7WfNb9Y-22-_GPqOYR4bMyMz9vg&usqp=CAU',
+	“name” : 'Niharika',
+	“short_description” : 'Jazz and Classical Music Instructor',
+	“description” : 'Hello, welcome to my Events page! I’m Niharika, founder of The Backyard Musicians - a first of a kind music class in India where money doesn’t determine your opportunity to learn. We train in Styles like Jazz, Hip Hop and Classical to entertain you through our Groove.',
 
-You can use the [editor on GitHub](https://github.com/replyashu/replyashu.event.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	“links” : [ {“instagram”:  'https://www.instagram.com/sarcastic_us'},{ “youtube” : 'https://www.youtube.com/watch?v=cOTPlhHEFXA'} ],
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	classes : [ 
+{ “class_type” : 'one_on_one', “class_items” : 
 
-### Markdown
+[{“uuid”: 2,  “image” : 'https://cdn.pixabay.com/photo/2018/08/23/07/35/thunderstorm-3625405__340.jpg', “description” : “Music career consultation“, “currency” : 'R', “price” : 1290, “short_description“ : 'R 500 | Multiple slots | 60 mins'}, 
+{“uuid”: 4,  “image” : 'https://www.w3schools.com/w3css/img_forest.jpg', “description” : 'Dance career consultation', “currency” : 'R', “price” : 1200, “short_description“ : 'R 200 | Single slot | 60 mins'}, 
+{“uuid”: 1,  “image” : 'https://www.w3schools.com/w3css/img_forest.jpg', “description” : '30 minutes with Niharika', “currency” : 'R', “price” : 1310, “short_description“ : 'R 300 | Multiple slots | 30 mins'}]
+}, 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+{“class_type” : 'workshop', “class_items” : [{“uuid”: 5,  “image” : 'https://www.w3schools.com/w3css/img_forest.jpg', “description” : 'Ultimate Guitar Masterclass', “currency” : 'R', “price” : 120, “short_description“ : 'R 200 | Multiple slots | 30 mins'} ]},
 
-```markdown
-Syntax highlighted code block
+{“class_type” : “batch”, “class_items” : 
+[{“uuid”: 6,  “image” : 'https://www.w3schools.com/w3css/img_forest.jpg', “description” : '30 minutes with Niharika', “currency” : 'R', “price” : 120, “short_description“ : 'R 200 | Multiple slots | 30 mins' },
+{“uuid”: 7,  “image” : 'https://www.w3schools.com/w3css/img_forest.jpg', “description” : '30 minutes with Niharika', “currency” : 'R', “price” : 22, “short_description“ : 'R 100 | Multiple slots | 30 mins' }
+]}],
 
-# Header 1
-## Header 2
-### Header 3
+	“feedback” : [ { “description” : 'Had an amazing experience when I attended the music workshop by Niharika. Would recommend this for everyone.', “author_name” : 'Dhruva', “author_image” : 'https://i.pinimg.com/originals/90/86/8a/90868a8d097453570e2c0190e99d24e9.jpg'  }, { “description” : 'Had an amazing experience when I attended the music workshop by Niharika. Would recommend this for everyone.', “author_name” : 'Dhruva', “author_image” : 'https://i.pinimg.com/originals/90/86/8a/90868a8d097453570e2c0190e99d24e9.jpg'  },
+{ “description” : “Had an amazing experience when I attended the music workshop by Niharika. Would recommend this for everyone.”, “author_name” : 'Dhruva', “author_image” : 'https://i.pinimg.com/originals/90/86/8a/90868a8d097453570e2c0190e99d24e9.jpg'  } ],
 
-- Bulleted
-- List
+	“gallery” : [ {“url“ : 'https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3', “description” : 'Recording Zepellin guitar solo in my studio' } ,
 
-1. Numbered
-2. List
+{“url“ : 'https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3', “description” : 'Recording Zepellin guitar solo in my studio' },
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/replyashu/replyashu.event.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+{“url“ : 'https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3', “description” : 'react karo' }
+]
+}
+}
